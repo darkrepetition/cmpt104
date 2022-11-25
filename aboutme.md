@@ -1,5 +1,7 @@
+---
 layout:page
 title: About me
+---
 
 I am an academic librarian in Edmonton, Alberta. 
 
