@@ -1,3 +1,6 @@
+layout:page
+title: About me
+
 I am an academic librarian in Edmonton, Alberta. 
 
 I hold degrees in French Language and Literature, Humanities Computing (Digital Humanities), and Library and Information Studies. 
